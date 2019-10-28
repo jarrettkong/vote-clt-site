@@ -14,6 +14,7 @@ social:
     - https://github.com/opencltbrigade
 
 logo: '/assets/img/og-logo.png'
+image: '/assets/img/og-logo.png'
 
 # THEME SETTINGS
 navigation: # Navigation links

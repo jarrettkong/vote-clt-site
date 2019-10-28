@@ -2,6 +2,7 @@
 layout: page
 title: Register to Vote
 permalink: /register/
+image: '/assets/img/og-logo.png'
 ---
 
 ## Are you registered to vote in Mecklenburg County?

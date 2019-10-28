@@ -6,4 +6,5 @@
 #
 layout: default
 title: Vote, CLT!
+image: '/assets/img/og-logo.png'
 ---

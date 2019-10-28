@@ -2,6 +2,7 @@
 layout: page
 title: Find your Polling Place
 permalink: /locations/
+image: '/assets/img/og-logo.png'
 ---
 
 ## Early Voting

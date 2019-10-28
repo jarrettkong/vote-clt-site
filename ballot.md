@@ -2,6 +2,7 @@
 layout: page
 title: Preview your Ballot
 permalink: /ballot/
+image: '/assets/img/og-logo.png'
 ---
 
 There are several online resources you can use to preview an election ballot specific to your location as well as perform research on candidates that are running.

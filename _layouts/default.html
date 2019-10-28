@@ -8,19 +8,11 @@ layout: compress
 
   <body class="site">
 
-    {% if site.google_tag_manager %}
-
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
-
-    {% endif %}
-
     <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/hero-bg.jpg">
       <div class="hero__wrap">
         <h1 class="hero__title">{{ site.title | escape }}!</h1>
-        <p class="hero__meta">{{ site.tagline }}</p>
+        <!-- <p class="hero__meta">{{ site.tagline }}</p> -->
+        <p class="hero__meta" style="font-weight: bold;">Get informed then vote in the 2019 election!</p>
       </div>
     </div>
 

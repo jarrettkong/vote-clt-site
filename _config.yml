@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 title: "Vote, CLT"
 author: Open Charlotte Brigade
-description: ""
+description: "Helping Charlotte get informed and vote in the 2019 election."
 baseurl: "/"
 url: "https://voteclt.com/"
 
@@ -13,6 +13,8 @@ social:
     - https://www.facebook.com/OpenCLTBrigade
     - https://github.com/opencltbrigade
 
+logo: '/assets/img/og-logo.png'
+
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Register', link: '/register'}
@@ -22,9 +24,6 @@ navigation: # Navigation links
 tagline: ""
 
 email: info@opencharlotte.org
-
-twitter_username: opencltbrigade # replace with your_twitter_username or comment to remove link from footer
-github_username:  opencltbrigade # replace with your_github_username or comment to remove link from footer
 
 # BUILD SETTINGS
 markdown: kramdown

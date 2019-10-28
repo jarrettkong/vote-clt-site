@@ -43,8 +43,8 @@ To register, you will need to bring an identifying document such as:
 
 ## Voter Registration Form
 
-Before you go, preview the voter registration form by [clicking here](https://dl.ncsbe.gov/Voter_Registration/NCVoterRegForm_06W.pdf) to be sure you have all of the information needed to register. You can also print and complete the document at home to make the process easier.
+Before you go, preview the voter registration form by <a href="https://dl.ncsbe.gov/Voter_Registration/NCVoterRegForm_06W.pdf">clicking here</a> to be sure you have all of the information needed to register. You can also print and complete the document at home to make the process easier.
 
 ## Find a One-Stop Voting Site!
 
-You can register vote and cast a [ballot](/ballot) at a one-stop voting site before election day. Find the site nearest to you by [clicking here](https://vt.ncsbe.gov/ossite/).
+You can register vote and cast a [ballot](/ballot) at a one-stop voting site before election day. Find the site nearest to you by <a href="https://vt.ncsbe.gov/ossite/" target="_blank" rel="noopener noreferrer">clicking here></a>.
